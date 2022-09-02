@@ -8,7 +8,7 @@
   
   <div>
     <a href="https://dawsu.github.io/">
-      <img height="140px" src="https://raw.githubusercontent.com/dawsu/dawsu/main/resume.webp">
+      <img height="140px" src="http://mms0.baidu.com/it/u=390470901,753711757&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=500&h=500">
     </a>
     <br><br>
     个人简历 
