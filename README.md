@@ -17,7 +17,7 @@
   <br><br>
   
   <div>
-    <a href="https://home.cnblogs.com/u/da48">
+    <a href="https://www.cnblogs.com/da48/">
       <img height="40px" src="https://www.cnblogs.com/images/logo.svg?v=R9M0WmLAIPVydmdzE2keuvnjl-bPR7_35oHqtiBzGsM">
     </a>
     <br><br>
