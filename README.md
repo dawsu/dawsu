@@ -8,7 +8,7 @@
   
   <div>
     <a href="https://dawsu.github.io/">
-      <img height="140px" src="http://mms0.baidu.com/it/u=390470901,753711757&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=500&h=500">
+      <img height="140px" src="https://bainiaotong-1305632521.cos.ap-shanghai.myqcloud.com/image/ipage/i.webp">
     </a>
     <br><br>
     个人简历 
